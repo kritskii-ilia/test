@@ -1,0 +1,23 @@
+html {
+font: size 10px;
+color: black;
+font-family: 'Inter', sans-serif;
+
+}
+
+/* .side-left{
+    size: 10px;
+} */
+
+button{
+    font-size: 40px;
+    color: rgb(0, 162, 255);
+    background-color: aquamarine;
+}
+
+a{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 30px, 50px;
+}
